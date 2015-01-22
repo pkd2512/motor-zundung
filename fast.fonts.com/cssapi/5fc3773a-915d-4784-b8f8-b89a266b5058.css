@@ -1,0 +1,45 @@
+@import url(../t/184ed.css?apiType=css&amp;projectid=5fc3773a-915d-4784-b8f8-b89a266b5058);
+@font-face{
+font-family:"Calvert MT W01 Bold";
+src:url("http://fast.fonts.com/d/618b8fa0-3ab0-481f-a92f-79eae9b1c8eb.eot?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058") format("eot");}
+
+@font-face {
+  font-family: 'Mardian Demo';
+  src: url(MardianDemo.ttf);
+}
+@font-face {
+  font-family: 'Agency FB';
+  src: url(AGENCYR.TTF);
+}	
+
+@font-face{
+font-family:'Calvert MT W01 Bold';
+src:url(Calvert-MT-Std-Bold.ttf);
+}
+@font-face{
+font-family:'Proxima N W15 Bold';
+src:url(proximanova-regular-webfont.ttf);
+}
+@font-face{
+font-family:'Roboto';
+src:url(Roboto-Light.ttf);
+}
+@font-face{
+font-family:'Aller-it';
+src:url(Aller_LtIt.ttf);
+}
+
+@font-face{
+font-family:"Proxima N W15 Bold";
+src:url("http://fast.fonts.com/d/9682bb7d-efd6-4254-8771-e146c89a72d4.eot?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058");
+src:url("http://fast.fonts.com/d/a3a867b8-141c-4865-9f8d-6dc5766a6bc5.woff?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058") format("woff"),url("http://fast.fonts.com/d/b9d6d5ca-ba9b-4fa1-a81e-366891676e4a.ttf?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058") format("truetype"),url("http://fast.fonts.com/d/844c48e5-7a2b-488b-9e47-ff8dda98e5e2.svg?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058#844c48e5-7a2b-488b-9e47-ff8dda98e5e2") format("svg");
+}
+@font-face{
+font-family:"Proxima N W15 Black";
+src:url("http://fast.fonts.com/d/40b18343-f287-42bc-a93d-3d2ce419f8e4.eot?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058") format("eot");}
+@font-face{
+font-family:"Proxima N W15 Black";
+src:url("http://fast.fonts.com/d/40b18343-f287-42bc-a93d-3d2ce419f8e4.eot?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058");
+src:url("http://fast.fonts.com/d/e33f2c3e-1652-4366-a060-49534a5c9cc7.woff?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058") format("woff"),url("http://fast.fonts.com/d/a61b629e-6ed5-4647-8f5b-7479d1ae9ddb.ttf?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058") format("truetype"),url("http://fast.fonts.com/d/43852b29-fe22-4990-89f2-9a0040038171.svg?d44f19a684109620e4841578a190e81899ea4ef258eef72d3a036e96543ce79f6a8dbdb4030c201d44f5a4bc228df0de57f0b15baef94003eea6709b5ab00392732e8d5437edfa2927c8d03d07c0844737d2efd874cdc4fd8c8b8bb354ecdac394e467f61b24997e3b496ef8cdcde015f3c0519a&amp;projectId=5fc3773a-915d-4784-b8f8-b89a266b5058#43852b29-fe22-4990-89f2-9a0040038171") format("svg");
+}
+body{font-family:"Calvert MT W01 Bold";}

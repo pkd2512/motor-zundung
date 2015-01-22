@@ -1,0 +1,35 @@
+HTTrack3.48-19+htsswf+htsjava launched on Tue, 13 Jan 2015 01:45:35 at http://www.evanshalshaw.com/more/bondcars/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.evanshalshaw.com/more/bondcars/ -O1 "D:\MZ 7\bond" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:45:38	Warning: 	Found for www.evanshalshaw.com/robots.txt
+01:45:38	Warning: 	File has moved from www.evanshalshaw.com/robots.txt to /404/?aspxerrorpath=/robots.txt
+01:49:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.com/t/1.css?apiType=css&projectid=5fc3773a-915d-4784-b8f8-b89a266b5058
+02:19:12	Error: 	"Not Found" (404) at link www.googletagmanager.com/gtm.js?id= (from www.evanshalshaw.com/more/bondcars/)
+02:19:12	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/infographic.jpg (from www.evanshalshaw.com/more/bondcars/)
+02:20:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 3508556 got 1008751): www.evanshalshaw.com/Static/Content/BondCars/bond-img/infographic.jpg
+02:20:29	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c2-illustration-bodywork.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:29	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c2-part1.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:29	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c5-part1.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:29	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c6-illustration-bodywork.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:34	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c6-part2.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:34	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c6-date.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:39	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c8-illustration-bodywork.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:42	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c9-illustration-bodywork.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:43	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c10-date.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:46	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c12-illustration-bodywork.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:54	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c23-illustration-bodywork.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:57	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c24-part2.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:20:59	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c24-date.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:21:00	Warning: 	Retry after error -2 (Receive Time Out) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/cars/c21-drag.png (from www.evanshalshaw.com/Static/Content/BondCars/bond-css/main.css)
+02:21:01	Warning: 	Retry after error -4 (Incorrect length (1008751 Bytes, 3508556 expected)) at link www.evanshalshaw.com/Static/Content/BondCars/bond-img/infographic.jpg (from www.evanshalshaw.com/more/bondcars/)
+02:21:01	Error: 	"Not Found" (404) at link www.evanshalshaw.com/more/bondcars/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_GB/all.js)
+02:21:01	Warning: 	Found for www.evanshalshaw.com/more/bondcars/dialog/
+02:21:01	Warning: 	File has moved from www.evanshalshaw.com/more/bondcars/dialog/ to /404/?aspxerrorpath=/more/bondcars/dialog/
+
+HTTrack Website Copier/3.48-19 mirror complete in 37 minutes 16 seconds : 216 links scanned, 196 files written (9942505 bytes overall) [8867564 bytes received at 3965 bytes/sec], 1544555 bytes transferred using HTTP compression in 33 files, ratio 25%
+(2 errors, 22 warnings, 0 messages)
