@@ -646,7 +646,7 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c3 .illustration   { background-image: url(../bond-img/cars/c3-illustration-bodywork.png); }
 .c3 .part1          { background-image: url(../bond-img/cars/c3-part1.png); }
 .c3 .part2          { background-image: url(../bond-img/cars/c3-part2.png); }
-.c3 .date           { background-image: url(../bond-img/cars/c3-date.png); }
+.c3 .date           { /*background-image: url(../bond-img/cars/c3-date.png); */}
 
 .c4	                { z-index: 21;}
 .c4 .name, 
@@ -662,7 +662,7 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c5 .illustration   { background-image: url(../bond-img/cars/c5-illustration-bodywork.png); }
 .c5 .part1          { background-image: url(../bond-img/cars/c5-part1.png); }
 .c5 .part2          { background-image: url(../bond-img/cars/c5-part2.png); }
-.c5 .date           { background-image: url(../bond-img/cars/c5-date.png); }
+.c5 .date           { /*background-image: url(../bond-img/cars/c5-date.png); */}
 
 .c6	                { z-index: 19;}
 .c6 .name, 
@@ -671,7 +671,7 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c6 .illustration   { background-image: url(../bond-img/cars/c6-illustration-bodywork.png); }
 .c6 .part1          { background-image: url(../bond-img/cars/c6-part1.png); }
 .c6 .part2          { background-image: url(../bond-img/cars/c6-part2.png); }
-.c6 .date           	{ background-image: url(../bond-img/cars/c6-date.png); }
+.c6 .date           	{ /*background-image: url(../bond-img/cars/c6-date.png); */}
 
 .c7	                { z-index: 18;}
 .c7 .name, 
@@ -680,21 +680,21 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c7 .illustration   { background-image: url(../bond-img/cars/c7-illustration-bodywork.png); }
 .c7 .part1          { background-image: url(../bond-img/cars/c7-part1.png); }
 .c7 .part2          { background-image: url(../bond-img/cars/c7-part2.png); }
-.c7 .date           { background-image: url(../bond-img/cars/c7-date.png); }
+.c7 .date           { /*background-image: url(../bond-img/cars/c7-date.png); */}
 
 .c8	                { z-index: 17;}
 .c8 .name, 
 .c8 .description    { color: rgb(42,43,57); }
 .c8 .circle-mask    { background-color: rgb(244,214,13); }
 .c8 .illustration   { background-image: url(../bond-img/cars/c8-illustration-bodywork.png); }
-.c8 .date           { background-image: url(../bond-img/cars/c8-date.png); }
+.c8 .date           { /*background-image: url(../bond-img/cars/c8-date.png); */}
 
 .c9	                { z-index: 16;}
 .c9 .name, 
 .c9 .description    { color: rgb(81,122,192); }
 .c9 .circle-mask    { background-color: rgb(42,43,57); }
 .c9 .illustration   { background-image: url(../bond-img/cars/c9-illustration-bodywork.png); }
-.c9 .date           { background-image: url(../bond-img/cars/c9-date.png); }
+.c9 .date           { /*background-image: url(../bond-img/cars/c9-date.png); */}
 
 .c10                { z-index: 15;}
 .c10 .name, 
@@ -703,7 +703,7 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c10 .illustration  { background-image: url(../bond-img/cars/c10-illustration-bodywork.png); }
 .c10 .part1         { background-image: url(../bond-img/cars/c10-part1.png); }
 .c10 .part2         { background-image: url(../bond-img/cars/c10-part2.png); }
-.c10 .date          { background-image: url(../bond-img/cars/c10-date.png); }
+.c10 .date          {/* background-image: url(../bond-img/cars/c10-date.png); */}
 
 .c11                { z-index: 14;}
 .c11 .name, 
@@ -712,21 +712,21 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c11 .illustration  { background-image: url(../bond-img/cars/c11-illustration-bodywork.png); }
 .c11 .part1         { background-image: url(../bond-img/cars/c11-part1.png); }
 .c11 .part2         { background-image: url(../bond-img/cars/c11-part2.png); }
-.c11 .date          { background-image: url(../bond-img/cars/c11-date.png); }
+.c11 .date          {/* background-image: url(../bond-img/cars/c11-date.png);*/ }
 
 .c12                { z-index: 13;}
 .c12 .name, 
 .c12 .description   { color: rgb(255,210,77); }
 .c12 .circle-mask   { background-color: rgb(140,104,114); }
 .c12 .illustration  { background-image: url(../bond-img/cars/c12-illustration-bodywork.png); }
-.c12 .date          { background-image: url(../bond-img/cars/c12-date.png); }
+.c12 .date          { /*background-image: url(../bond-img/cars/c12-date.png); */}
 
 .c13                { z-index: 12;}
 .c13 .name, 
 .c13 .description   { color: rgb(22,31,46); }
 .c13 .circle-mask   { background-color: rgb(255,210,77); }
 .c13 .illustration  { background-image: url(../bond-img/cars/c13-illustration-bodywork.png); }
-.c13 .date          { background-image: url(../bond-img/cars/c13-date.png); }
+.c13 .date          {/* background-image: url(../bond-img/cars/c13-date.png); */}
 
 .c14                { z-index: 11;}
 .c14 .name, 
@@ -735,35 +735,35 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c14 .illustration  { background-image: url(../bond-img/cars/c14-illustration-bodywork.png); }
 .c14 .part1         { background-image: url(../bond-img/cars/c14-part1.png); }
 .c14 .part2         { background-image: url(../bond-img/cars/c14-part2.png); }
-.c14 .date          { background-image: url(../bond-img/cars/c14-date.png); }
+.c14 .date          {/* background-image: url(../bond-img/cars/c14-date.png); */}
 
 .c15                { z-index: 10;}
 .c15 .name, 
 .c15 .description   { color: rgb(100,63,76); }
 .c15 .circle-mask   { background-color: rgb(189,144,198);}
 .c15 .illustration  { background-image: url(../bond-img/cars/c15-illustration-bodywork.png); }
-.c15 .date          { background-image: url(../bond-img/cars/c15-date.png); }
+.c15 .date          {/* background-image: url(../bond-img/cars/c15-date.png); */}
 
 .c16                { z-index: 9;}
 .c16 .name, 
 .c16 .description   { color: rgb(32,32,47); }
 .c16 .circle-mask   { background-color: rgb(100,63,76); }
 .c16 .illustration  { background-image: url(../bond-img/cars/c16-illustration-bodywork.png); }
-.c16 .date          { background-image: url(../bond-img/cars/c16-date.png); }
+.c16 .date          {/* background-image: url(../bond-img/cars/c16-date.png); */}
 
 .c17                { z-index: 8;}
 .c17 .name, 
 .c17 .description   { color: rgb(227,203,195); }
 .c17 .circle-mask   { background-color: rgb(32,32,47); }
 .c17 .illustration  { background-image: url(../bond-img/cars/c17-illustration-bodywork.png); }
-.c17 .date          { background-image: url(../bond-img/cars/c17-date.png); }
+.c17 .date          {/* background-image: url(../bond-img/cars/c17-date.png); */}
 
 .c18                { z-index: 7;}
 .c18 .name, 
 .c18 .description   { color: rgb(224,87,67); }
 .c18 .circle-mask   { background-color: rgb(227,203,195); }
 .c18 .illustration  { background-image: url(../bond-img/cars/c18-illustration-bodywork.png); }
-.c18 .date          { background-image: url(../bond-img/cars/c18-date.png); }
+.c18 .date          {/* background-image: url(../bond-img/cars/c18-date.png); */}
 
 .c19                { z-index: 6;}
 .c19 .name, 
@@ -786,7 +786,7 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c21 .description   { color: rgb(76,227,145); }
 .c21 .circle-mask   { background-color: rgb(117,42,155); }
 .c21 .illustration  { background-image: url(../bond-img/cars/c21-illustration-bodywork.png); }
-.c21 .date          { background-image: url(../bond-img/cars/c21-date.png); }
+.c21 .date          {/* background-image: url(..//bond-img/cars/c21-date.png); */}
 
 .c22                { z-index: 3;}
 .c22 .name, 
@@ -809,7 +809,7 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
 .c24 .illustration  { background-image: url(../bond-img/cars/c24-illustration-bodywork.png); }
 .c24 .part1         { background-image: url(../bond-img/cars/c24-part1.png); }
 .c24 .part2         { background-image: url(../bond-img/cars/c24-part2.png); }
-.c24 .date          { background-image: url(../bond-img/cars/c24-date.png); }
+.c24 .date          { /*background-image: url(../bond-img/cars/c24-date.png); */}
 
 
 /*---------------------------------
