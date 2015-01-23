@@ -615,7 +615,105 @@ background: url(../bond-img/white-arrow-left.png) no-repeat left 1px;
     top: 20em;
     left: 40%;
 }
-
+.caraoke {
+position: fixed;
+display: block;
+z-index: 2;
+color: #fff;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 45%;
+bottom: 15vh;
+right: 5%;
+}
+.tx {
+position: fixed;
+display: block;
+z-index: 2;
+color: #fff;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 35%;
+bottom: 65vh;
+right: 5%;
+}
+.drally {
+position: fixed;
+display: block;
+z-index: 2;
+color: #fff;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 28%;
+bottom: 15vh;
+right: 5%;
+}
+.workshops {
+position: fixed;
+display: block;
+z-index: 2;
+color: #fff;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 30%;
+bottom: 61vh;
+left: 5%;
+}
+.baja {
+position: fixed;
+display: block;
+z-index: 2;
+color: #fff;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 90%;
+bottom: 14vh;
+right: 5%;
+}
+.autopia {
+position: fixed;
+display: block;
+z-index: 2;
+color: #fff;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 18%;
+bottom: 20vh;
+right: 5%;
+}
+.contact {
+position: fixed;
+display: block;
+z-index: 2;
+color: #402000;
+font-size: 1.3vw;
+font-family: 'Roboto';
+width: 20%;
+bottom: 15vh;
+right: 5%;
+}
+.htrr {
+position: fixed;
+display: block;
+z-index: 2;
+color: #362920;
+font-size: 1.2vw;
+font-family: 'Roboto';
+width: 30%;
+bottom: 63vh;
+right: 5%;
+}
+.htrl {
+position: fixed;
+display: block;
+z-index: 2;
+color: #362920;
+font-size: 1.2vw;
+font-family: 'Roboto';
+width: 27%;
+bottom: 13vh;
+right: 35%;
+}
 .about:hover {color: #212130;}
 /*---------------------------------
  *
